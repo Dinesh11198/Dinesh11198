@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dinesh11198
-- 👀 I’m interested in ...IndianArmy
+- 👀 Im a Cloud  Devops Engineer
 - 🌱 Studying everyday...
-- 💞️ I’m learning to make stable my self at penultimate times for spending time on travelling...
+- 💞️ I’m learning to refresh
 - 📫 
 
 <!---
