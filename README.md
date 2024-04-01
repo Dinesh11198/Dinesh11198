@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dinesh11198
-- 👀 Im a Cloud  Devops Engineer
-- 🌱 Studying everyday...
-- 💞️ I’m learning to refresh
+- 👀 Im a Cloud  Devops Engineer in Altisource
+- 🌱 Wwlcome here
+- 💞️ gave a great day
 - 📫 
 
 <!---
